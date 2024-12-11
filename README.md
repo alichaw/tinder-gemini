@@ -1,4 +1,4 @@
-# Tinder-Gemini 專案 🚀❤️
+# Tinder-Gemini 🚀❤️
 
 想讓您的 Tinder 聊天脫穎而出？這個專案結合了 Tinder API 和 Google 的 Gemini API，幫助您模仿自己的聊天風格，自動回覆！不僅如此，它還使用您的個人資料和常用的台灣語句生成自然、有趣且吸引人的回應，讓每一次對話都充滿個人特色和幽默感 😎。
 
