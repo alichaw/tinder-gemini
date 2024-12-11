@@ -1,0 +1,48 @@
+# Python specific
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Virtual environment
+*.env
+*.env.local
+
+# Logs
+*.log
+*.out
+*.err
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Gemini and sensitive files
+data/profile.md
+*.json
+
+# Others
+*.bak
+*.tmp
+*.old
